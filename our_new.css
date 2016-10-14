@@ -7,4 +7,17 @@
     }
 .melon-cat {
     text-align: center;
+
 }
+.table-striped {
+    border-collapse: collapse;
+}
+.navbar {
+    background-color: #ff4d4d;
+    color: white;
+}
+.navbar-brand {
+    color: black;
+}
+
+/*table { border-bottom-color: red !important; border-top-color: pink !important;}*/
